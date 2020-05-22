@@ -5,4 +5,4 @@ Only two enviroment variables are required:
 - `url` of your OpenAPI endpoint
 - `port` to expose the graphql interface on
 
-Everything else relies ono `openapi-to-graphql`
+Everything else relies on `openapi-to-graphql`
